@@ -2,4 +2,4 @@
 https://recipe-search-app-six.vercel.app/
 
 ***
-<img src="./aseets/img/Recipes-search.png">
+<img src="./assets/img/Recipes-search.png">
